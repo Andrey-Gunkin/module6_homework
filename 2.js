@@ -1,4 +1,3 @@
-// Не работает проверка на NaN
 let x = +prompt ('Введите число, но не больше 1000');
 let value= x + ' - Простое число';
 function getSimpleNumb(a,b) {
